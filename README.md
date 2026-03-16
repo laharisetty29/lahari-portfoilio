@@ -38,7 +38,7 @@ Built using **HTML, CSS, and JavaScript**, with smooth animations, and mobile re
 
 Netlify URL: 
 ```
-https://lahari-portfolio7.netlify.app/
+https://lahari-portfoilio.netlify.app/
 ```
 ---
 
